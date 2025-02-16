@@ -18,14 +18,14 @@ This project is actively being developed, tested, and refined. If you experience
 
 ## Compatibility
 Tested on:
-- **MKS PI HSK**
+- **MKS PI**
 - **Raspberry Pi (with Klipper)**
 
 Default configurations are optimized for `mks` user. If you are using `pi` or any other user, please update the paths in the scripts accordingly.
 
 ## Prerequisites
 - **Klipper firmware** installed on your 3D printer.
-- **Linux environment** (Tested on Raspberry Pi OS and MKS PI HSK).
+- **Linux environment** (Tested on Raspberry Pi OS and MKS PI).
 - `gcodeshellcommand` extension enabled in Klipper.
 - G-code files with:
   - `;Z:` comments for **SuperSlicer/PrusaSlicer**.
