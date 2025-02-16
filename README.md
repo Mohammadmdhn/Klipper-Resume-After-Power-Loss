@@ -19,14 +19,14 @@ This project is under continuous development, testing, and enhancement. Users ar
 
 ## Compatibility
 Tested on:
-- **MKS PI HSK**
+- **MKS PI**
 - **Raspberry Pi with Klipper**
 
 Default user paths are configured for the `mks` user. If you are using `pi` or any other user, you need to adjust the paths in the scripts accordingly.
 
 ## Prerequisites
 - **Klipper firmware** installed on your 3D printer.
-- **Linux environment** (Tested on MKS PI HSK and Raspberry Pi OS).
+- **Linux environment** (Tested on MKS PI and Raspberry Pi OS).
 - `gcodeshellcommand` extension enabled in Klipper.
 - G-code files with:
   - `;Z:` comments (for **SuperSlicer/PrusaSlicer**)
