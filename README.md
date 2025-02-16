@@ -1,4 +1,4 @@
-# Klipper Resume After Power Loss
+# Royal3DP-Klipper-PLR
 
 This repository contains a Bash script designed to automate the process of resuming a 3D print after a power loss when using **Klipper firmware**. The script processes a G-code file and extracts the portion needed to restart printing from the last known layer height.
 
@@ -24,7 +24,7 @@ This project is currently under active development, testing, and bug fixing. If 
 
 ## Installation
 ```bash
-cd /path/to/your/klipper_resume_after_power_loss
+cd /path/to/your/Royal3DP-Klipper-PLR
 chmod +x plr_recovery.sh
 ```
 
