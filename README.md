@@ -55,9 +55,9 @@ This repository includes multiple scripts to assist with power loss recovery. Re
 - Contributions and feedback are welcome.
 
 ## Author
-Mohamad Madahiana  
+Mohamad Madahian  
 Website: [royal3dp.ir](https://royal3dp.ir)  
-LinkedIn: [Mohammad Madahiana](https://www.linkedin.com/in/mohammad-madahian-5ab2b622a/)  
+LinkedIn: [Mohammad Madahian](https://www.linkedin.com/in/mohammad-madahian-5ab2b622a/)  
 GitHub: [Mohammadmdhn](https://github.com/Mohammadmdhn)  
 Contact: +98 9137817673
 
