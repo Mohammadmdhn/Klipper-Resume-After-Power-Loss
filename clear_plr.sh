@@ -1,0 +1,1 @@
+rm /home/mks/printer_data/gcodes/plr -rf
