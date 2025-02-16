@@ -24,8 +24,10 @@ This project is currently under active development, testing, and bug fixing. If 
 
 ## Installation
 ```bash
-cd /path/to/your/Royal3DP-Klipper-PLR
-chmod +x plr_recovery.sh
+git clone https://github.com/Mohammadmdhn/Royal3DP-Klipper-PLR.git
+cd Royal3DP-Klipper-PLR
+chmod +x install.sh
+sudo ./install.sh
 ```
 
 ## Usage
@@ -55,9 +57,9 @@ This repository includes multiple scripts to assist with power loss recovery. Re
 - Contributions and feedback are welcome.
 
 ## Author
-Mohamad Madahian  
+Mohamad Madahiana  
 Website: [royal3dp.ir](https://royal3dp.ir)  
-LinkedIn: [Mohammad Madahian](https://www.linkedin.com/in/mohammad-madahian-5ab2b622a/)  
+LinkedIn: [Mohammad Madahiana](https://www.linkedin.com/in/mohammad-madahian-5ab2b622a/)  
 GitHub: [Mohammadmdhn](https://github.com/Mohammadmdhn)  
 Contact: +98 9137817673
 
